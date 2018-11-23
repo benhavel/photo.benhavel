@@ -801,6 +801,10 @@ footer {
   background: #ffffff;
 }
 
+iframe{
+  width: 500px;
+}
+
 /* Responsive Mobile styles
 /* ========================================== */
 @media (max-width: 980px) {
